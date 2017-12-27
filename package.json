@@ -19,6 +19,7 @@
     "chai-enzyme": "^0.8.0",
     "enzyme": "^3.2.0",
     "faker": "^4.1.0",
+    "jest": "^22.0.4",
     "react-test-render": "^1.1.1"
   }
 }
